@@ -6,6 +6,8 @@
 <br/>
 
 <!-- Technologies -->
+
+## My network of programming knowledge...
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -42,10 +44,9 @@
 
 
 <!-- Social -->
+## 📣contact with me
 <p>
-  <h2>📣Connect With Me</h2><br/>
+  <br/>
   <a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/chegodev"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackexchange.com/users/28069656/chegodev"><img src="https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/21442479/chegodev"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
