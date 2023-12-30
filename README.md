@@ -42,6 +42,9 @@
 </div>
 <br/>
 
+##
+![](https://komarev.com/ghpvc/?username=chegodev&color=blueviolet)
+
 
 <!-- Social -->
 ## 📣contact with me
