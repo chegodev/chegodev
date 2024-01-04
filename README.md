@@ -37,7 +37,7 @@
 
 <!-- GitHub -->
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chegodev)](https://github.com/chegodev/github-readme-stats)
+[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev)](https://github.com/chegodev/github-readme-stats)
 
 ##
  <div>
