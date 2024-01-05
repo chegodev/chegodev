@@ -13,9 +13,9 @@ Hi, I'm Zahra from Iran, and I started programming because I like computers and 
 
 <!-- Technologies -->
 ## Skills & Experience 
-🟣 React
-🔵 HTML, CSS, JS
-⚫️ Python
+-🎯 React
+-💻 HTML, CSS, JS
+-👀 Python
 
 <!-- GitHub -->
 ##
