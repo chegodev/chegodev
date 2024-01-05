@@ -19,8 +19,9 @@ Hi, I'm Zahra from Iran, and I started programming because I like computers and 
 
 <!-- GitHub -->
 ##
-[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev&show_icons=true&theme=nightowl)](https://github.com/chegodev/github-readme-stats) <img align="right" src="https://github-readme-stats-plum-three.vercel.app/api/top-langs?username=chegodev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Chegodev's language" height="200px"  width="300px" theme="nightowl"/>
-<br/>
+[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev&show_icons=true&theme=nightowl)](https://github.com/chegodev/github-readme-stats)
+[![TopLangs](https://github-readme-stats-plum-three.vercel.app/api/top-langs/?username=chegodev&layout=compact&theme=nightowl)](https://github.com/chegodev/github-readme-stats)
 
 ##
+
 ![](https://komarev.com/ghpvc/?username=chegodev&color=blueviolet)
