@@ -1,7 +1,8 @@
 <!-- "Hero" Header -->
 <div>
-<img align="center" src="" style="max-width: 100%;" alt="HELLO WORLD! :)" />
+<img align="center" src="chegodev.png" style="max-width: 100%;" alt="HELLO WORLD! :)" />
 </div>
+<br/>
 
 
   <a href="https://mail.google.com/mail/u/3/#inbox"><img align="right" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><a href="www.linkedin.com/in/chegodev"><img align="right" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
