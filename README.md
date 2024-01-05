@@ -1,7 +1,5 @@
 <!-- "Hero" Header -->
-<div align="center">
-  <img src="HELLO WORLD!.gif" style="max-width: 100%;" alt="HELLO WORLD! :)" />
-</div>
+<img align="center" src="HELLO WORLD!.gif" style="max-width: 100%;" alt="HELLO WORLD! :)" />
 
 <br/>
 
@@ -28,22 +26,10 @@
 
   </p>
 
-<!-- Banner -->
-<div align="center">
-  <img src="HELLO WORLD!.png" style="max-width: 100%;" alt="Space Banner Made With Canva" />
-</div>
-<br />
-<br />
 
 <!-- GitHub -->
 ##
-[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev)](https://github.com/chegodev/github-readme-stats)
-
-##
- <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chegodev" alt="Git's Stat" /><br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chegodev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>
-</div>
+[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev)](https://github.com/chegodev/github-readme-stats) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chegodev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="400px"/>
 <br/>
 
 ##
