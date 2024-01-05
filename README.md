@@ -1,5 +1,10 @@
 <!-- "Hero" Header -->
-<img align="center" src="HELLO WORLD!.gif" style="max-width: 100%;" alt="HELLO WORLD! :)" />
+<div>
+<img align="center" src="" style="max-width: 100%;" alt="HELLO WORLD! :)" />
+</div>
+
+
+  <a href="https://mail.google.com/mail/u/3/#inbox"><img align="right" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><a href="www.linkedin.com/in/chegodev"><img align="right" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/>
 
@@ -29,17 +34,8 @@
 
 <!-- GitHub -->
 ##
-[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev)](https://github.com/chegodev/github-readme-stats) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chegodev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="400px"/>
+[![Chegodev's GitHub stats](https://github-readme-stats-plum-three.vercel.app/api?username=chegodev)](https://github.com/chegodev/github-readme-stats) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chegodev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="340px"/>
 <br/>
 
 ##
 ![](https://komarev.com/ghpvc/?username=chegodev&color=blueviolet)
-
-
-<!-- Social -->
-## 📣contact with me
-<p>
-  <br/>
-  <a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/chegodev"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
