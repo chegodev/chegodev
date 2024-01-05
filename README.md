@@ -13,9 +13,9 @@ Hi, I'm Zahra from Iran, and I started programming because I like computers and 
 
 <!-- Technologies -->
 ## Skills & Experience 
-- React
-- HTML, CSS, JS
-- Python
+🟣 React
+🔵 HTML, CSS, JS
+⚫️ Python
 
 <!-- GitHub -->
 ##
@@ -23,4 +23,4 @@ Hi, I'm Zahra from Iran, and I started programming because I like computers and 
 <br/>
 
 ##
-![](https://komarev.com/ghpvc/?username=chegodev&color=blueviolet&align=center)
+![](https://komarev.com/ghpvc/?username=chegodev&color=blueviolet)
